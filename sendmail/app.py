@@ -4,7 +4,7 @@ import logging
 import os
 from flask_mail import Mail, Message
 
-#njdo sqws bnxn hzri
+
 
 app = Flask(__name__) # __name__ => __main__
 app.config["SECRET_KEY"]= "asdjh21321ADzds23a"
